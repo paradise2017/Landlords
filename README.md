@@ -128,19 +128,3 @@
 4. ![33333](README/33333.png)
 
    ![](README/3434.png)
-
-   
-
-
-
-# 3. 其他
-
-欢迎关注作者：
-
-个人博客：https://subingwen.cn
-
-个人店铺：https://edu.subingwen.cn/index
-
-B站个人主页：https://space.bilibili.com/147020887
-
-微信公众号：ibc_dabing
